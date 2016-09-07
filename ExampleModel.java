@@ -4,7 +4,7 @@ import com.github.wrdlbrnft.sortedlistadapter.SortedListAdapter;
 
 /**
  * Created with Android Studio
- * User: Xaver
+ * User: yacov polonik
  * Date: 24/05/15
  */
 public class ExampleModel implements SortedListAdapter.ViewModel {
