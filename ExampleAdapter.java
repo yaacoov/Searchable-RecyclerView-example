@@ -13,7 +13,7 @@ import java.util.Comparator;
 
 /**
  * Created with Android Studio
- * User: Xaver
+ * User: yacov polonik
  * Date: 24/05/15
  */
 public class ExampleAdapter extends SortedListAdapter<ExampleModel> {
